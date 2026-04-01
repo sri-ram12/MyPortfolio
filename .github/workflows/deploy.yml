@@ -28,8 +28,9 @@ jobs:
       - name: Set up Node.js ⚙️
         uses: actions/setup-node@v4
         with:
-          node-js-version: 20
+          node-version: 20
           cache: 'npm'
+          cache-dependency-path: sriram-portfolio/package-lock.json
 
       - name: Install and Build 🔧
         run: |
