@@ -1,15 +1,57 @@
-# Sri Ram Chandra Sekhar - Portfolio 🚀
+# Sri Ram Chandra Sekhar – DevOps & AWS Portfolio
 
-This repository contains my personal portfolio website showcasing my skills as an Aspiring DevOps Engineer & AWS Cloud Engineer.
+This repository contains my personal portfolio website showcasing my projects, technical skills, and practical experience as a DevOps Engineer focused on AWS Cloud and modern infrastructure practices.
 
-## Instructions 🛠️
+## About Me
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+I am a Computer Science student specializing in DevOps and Cloud Engineering.  
+I build scalable, automated, and production-ready systems using industry-standard tools and cloud services.
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
+Core areas of focus:
 
-![Portfolio-Preview](public/images/preview.png)
+- AWS Cloud
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Linux
+- CI/CD Pipelines
+- React & TypeScript
+
+## Tech Stack
+
+Frontend:
+- React
+- TypeScript
+- GSAP
+- Three.js
+- WebGL
+- HTML5
+- CSS3
+- JavaScript
+
+## Local Setup
+
+Clone the repository:
+
+git clone https://github.com/sri-ram12/Portfolio.git
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
+npm run dev
+
+## Deployment
+
+This project can be deployed using:
+
+- Vercel
+- Netlify
+- AWS S3 with CloudFront
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
