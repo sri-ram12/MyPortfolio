@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      gsap: path.resolve(__dirname, "src/lib/gsap"),
+      gsap: path.resolve("src/lib/gsap"),
     },
   },
   base: "/MyPortfolio/",
